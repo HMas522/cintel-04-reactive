@@ -63,7 +63,7 @@ app_ui = ui.page_navbar(
         ),
     ),
     ui.nav(ui.a("About", href="https://github.com/HMas522")),
-    ui.nav(ui.a("GitHub", href="https://github.com/dHMas522/cintel-04-reactive")),
+    ui.nav(ui.a("GitHub", href="https://github.com/HMas522/cintel-04-reactive")),
     ui.nav(ui.a("App", href="https://HMas522.shinyapps.io/cintel-04-reactive/")),
     ui.nav(ui.a("Examples", href="https://shinylive.io/py/examples/")),
     ui.nav(ui.a("Widgets", href="https://shiny.rstudio.com/py/docs/ipywidgets.html")),
